@@ -122,3 +122,16 @@ UNKNOWN_ERROR
 Database connection timed out after 30 seconds
 
 فقط نام دسته را برگردان.
+
+
+
+# Day 14 — Prompt Comparison Results
+
+## Winner
+Structured Prompt
+
+## Reason
+در Test Case فعلی، همه Promptها Accuracy و Consistency کامل داشتند، اما Structured Prompt کمترین میانگین Cost را داشت.
+
+## Important Note
+این نتیجه فقط مربوط به همین آزمایش و همین ورودی است و به معنی بهتر بودن Structured Prompt در همه سناریوها نیست.

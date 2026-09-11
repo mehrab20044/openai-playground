@@ -1,0 +1,137 @@
+[
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 58,
+    "output_tokens": 159,
+    "total_tokens": 217,
+    "cost": 0.0016625,
+    "prompt_name": "baseline",
+    "run_number": 1
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 58,
+    "output_tokens": 186,
+    "total_tokens": 244,
+    "cost": 0.0019325,
+    "prompt_name": "baseline",
+    "run_number": 2
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 58,
+    "output_tokens": 143,
+    "total_tokens": 201,
+    "cost": 0.0015025,
+    "prompt_name": "baseline",
+    "run_number": 3
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 66,
+    "output_tokens": 100,
+    "total_tokens": 166,
+    "cost": 0.0010825,
+    "prompt_name": "role",
+    "run_number": 1
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 66,
+    "output_tokens": 151,
+    "total_tokens": 217,
+    "cost": 0.0015925,
+    "prompt_name": "role",
+    "run_number": 2
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 66,
+    "output_tokens": 112,
+    "total_tokens": 178,
+    "cost": 0.0012025,
+    "prompt_name": "role",
+    "run_number": 3
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 121,
+    "output_tokens": 180,
+    "total_tokens": 301,
+    "cost": 0.00195125,
+    "prompt_name": "few_shot",
+    "run_number": 1
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 121,
+    "output_tokens": 90,
+    "total_tokens": 211,
+    "cost": 0.00105125,
+    "prompt_name": "few_shot",
+    "run_number": 2
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 121,
+    "output_tokens": 168,
+    "total_tokens": 289,
+    "cost": 0.00183125,
+    "prompt_name": "few_shot",
+    "run_number": 3
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 136,
+    "output_tokens": 102,
+    "total_tokens": 238,
+    "cost": 0.00119,
+    "prompt_name": "structured",
+    "run_number": 1
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 136,
+    "output_tokens": 78,
+    "total_tokens": 214,
+    "cost": 0.00095,
+    "prompt_name": "structured",
+    "run_number": 2
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 136,
+    "output_tokens": 89,
+    "total_tokens": 225,
+    "cost": 0.00106,
+    "prompt_name": "structured",
+    "run_number": 3
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 185,
+    "output_tokens": 80,
+    "total_tokens": 265,
+    "cost": 0.00103125,
+    "prompt_name": "combined",
+    "run_number": 1
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 185,
+    "output_tokens": 105,
+    "total_tokens": 290,
+    "cost": 0.00128125,
+    "prompt_name": "combined",
+    "run_number": 2
+  },
+  {
+    "output": "DB_ERROR",
+    "input_tokens": 185,
+    "output_tokens": 71,
+    "total_tokens": 256,
+    "cost": 0.00094125,
+    "prompt_name": "combined",
+    "run_number": 3
+  }
+]
