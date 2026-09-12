@@ -8,7 +8,7 @@ Learning project for Phase 2 - Week 4 of the AI Backend Playbook.
 - Day 12 - Multi-turn Chat CLI + Token/Cost Tracking ✅
 - Day 13 - Prompt Engineering + Evaluation Rubric ✅
 - Day 14 - Prompt Comparison + Cost/Quality Analysis ✅
-- Day 15 - Retry, Rate Limit and Cost Controls ⏳
+- Day 15 - Retry, Rate Limit and Cost Controls ✅
 
 ## Features
 
