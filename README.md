@@ -2,7 +2,7 @@
 
 Learning project for Phase 2 - Week 4 of the AI Backend Playbook.
 
-## Progress
+## complete
 
 - Day 11 - LLM Fundamentals ✅
 - Day 12 - Multi-turn Chat CLI + Token/Cost Tracking ✅
